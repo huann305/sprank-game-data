@@ -1,0 +1,276 @@
+{
+  "bootstrap": {
+    "bytes": 7422840,
+    "fileCount": 417,
+    "sha256": "b86490a37ce23f3ee8dad184982d5a341ebc52fce2b7db7917e2cd27e91638f6",
+    "unpackedBytes": 7417893,
+    "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/home.zip"
+  },
+  "contentVersion": "2026-10-26-v1",
+  "menu": {
+    "bytes": 995333,
+    "fileCount": 1,
+    "sha256": "05e59b2b1c29268161c83cff893262deee488388e2b7a695f5f13516d66502b8",
+    "unpackedBytes": 1003002,
+    "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/menu.zip"
+  },
+  "schemaVersion": 1,
+  "zones": [
+    {
+      "bytes": 5855211,
+      "fileCount": 127,
+      "sha256": "8dbc200a0e5297c19c65bdd159989f156ef9f74f55dad584e1e4e15e66895d7a",
+      "unpackedBytes": 6040567,
+      "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/zone1.zip",
+      "zone": 1
+    },
+    {
+      "bytes": 6015180,
+      "fileCount": 116,
+      "sha256": "6a843c7e331acccddcd85d607ce90a49b537deba3d07a407078a9997f9a76a1e",
+      "unpackedBytes": 6175531,
+      "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/zone2.zip",
+      "zone": 2
+    },
+    {
+      "bytes": 5735597,
+      "fileCount": 128,
+      "sha256": "c0f92d9b11fa3e52375fab27b7aeeb3c446923b9e930923bd986c90563cc040e",
+      "unpackedBytes": 5862880,
+      "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/zone3.zip",
+      "zone": 3
+    },
+    {
+      "bytes": 6458613,
+      "fileCount": 129,
+      "sha256": "6bb26bcd074b41e60a37b1eff3b9032fc5bf18b95b3a3221e2dc9d327a60f04a",
+      "unpackedBytes": 6809194,
+      "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/zone4.zip",
+      "zone": 4
+    },
+    {
+      "bytes": 5847532,
+      "fileCount": 122,
+      "sha256": "c5da82f9241f2f8a90c8cd579079061200b60d4c7a88bd3a0fac2b2ef5837a90",
+      "unpackedBytes": 6052431,
+      "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/zone5.zip",
+      "zone": 5
+    },
+    {
+      "bytes": 5754718,
+      "fileCount": 129,
+      "sha256": "5a66b2227a9f3287b132d7cf8ef23b66a2f00ebbea5e66d7080cc078247eb985",
+      "unpackedBytes": 5948106,
+      "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/zone6.zip",
+      "zone": 6
+    },
+    {
+      "bytes": 6001603,
+      "fileCount": 125,
+      "sha256": "8bc894bb22a7bd4a67bf3c7c7ad837e0c37d75b70638ad943cf32418f4029b31",
+      "unpackedBytes": 6453940,
+      "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/zone7.zip",
+      "zone": 7
+    },
+    {
+      "bytes": 5762626,
+      "fileCount": 125,
+      "sha256": "e6c8bc37f48f94d78ffe938d1e223ded70835dceacd6ffa4f6aca1aff3d63c12",
+      "unpackedBytes": 6009567,
+      "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/zone8.zip",
+      "zone": 8
+    },
+    {
+      "bytes": 5238559,
+      "fileCount": 125,
+      "sha256": "129ac389206f8f10bccfd256078af3822ddc01d45972cb836635b5edd9a521fe",
+      "unpackedBytes": 5382258,
+      "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/zone9.zip",
+      "zone": 9
+    },
+    {
+      "bytes": 6763724,
+      "fileCount": 125,
+      "sha256": "f90392cde0d9066d14fa2598fa0451f21f2da552d610d745a6007323c1a99736",
+      "unpackedBytes": 7030215,
+      "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/zone10.zip",
+      "zone": 10
+    },
+    {
+      "bytes": 5809261,
+      "fileCount": 125,
+      "sha256": "63e008a2e1c85159ea91ce35953cfbb472b91ebd2a9e65cb1f352042d445c996",
+      "unpackedBytes": 6081368,
+      "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/zone11.zip",
+      "zone": 11
+    },
+    {
+      "bytes": 6303226,
+      "fileCount": 125,
+      "sha256": "7d45a5191bc864b4a04caa3d5b5413da86e5aa58fb23e27957833ec698bd6223",
+      "unpackedBytes": 6567397,
+      "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/zone12.zip",
+      "zone": 12
+    },
+    {
+      "bytes": 5774683,
+      "fileCount": 125,
+      "sha256": "2dbf3099616fae7b2e0d78b68e6bb99c2c95747cdfb04373ee327bd2ea66d48a",
+      "unpackedBytes": 6109458,
+      "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/zone13.zip",
+      "zone": 13
+    },
+    {
+      "bytes": 6755774,
+      "fileCount": 125,
+      "sha256": "c311618d18044afac34d1330a63c4cd44e84368e6734787971a05814a4c25591",
+      "unpackedBytes": 6951386,
+      "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/zone14.zip",
+      "zone": 14
+    },
+    {
+      "bytes": 5812113,
+      "fileCount": 125,
+      "sha256": "53e52649b773a6ca43b00a2f731c7afd1c489a1340e323ec65ee7661394064b8",
+      "unpackedBytes": 5968218,
+      "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/zone15.zip",
+      "zone": 15
+    },
+    {
+      "bytes": 6690195,
+      "fileCount": 125,
+      "sha256": "e61fbf711bfc41878440c1c5494d8f1dd194a3d7318e9889adfb9c1fea98b9f8",
+      "unpackedBytes": 6967107,
+      "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/zone16.zip",
+      "zone": 16
+    },
+    {
+      "bytes": 5930370,
+      "fileCount": 122,
+      "sha256": "5192188da21c71d948a8dd758719ff6c19f001f62385b60c3ac647162174cf90",
+      "unpackedBytes": 6719152,
+      "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/zone17.zip",
+      "zone": 17
+    },
+    {
+      "bytes": 5544499,
+      "fileCount": 117,
+      "sha256": "bb4bdd4790a0fb9a72151b4f27d7b382e1f62cc7ee2bea088f9cf6403030fa20",
+      "unpackedBytes": 5697361,
+      "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/zone18.zip",
+      "zone": 18
+    },
+    {
+      "bytes": 5612913,
+      "fileCount": 119,
+      "sha256": "77fd5c3d3520242cc1a6fb6a4e395eae2f83bc4417b0ce8d0c305f04c30cd95d",
+      "unpackedBytes": 5836097,
+      "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/zone19.zip",
+      "zone": 19
+    },
+    {
+      "bytes": 5515580,
+      "fileCount": 115,
+      "sha256": "b4a116686afd3cc83f6bd638d869ce1eed4ae60d7f47e24e61717f5d1bf69021",
+      "unpackedBytes": 5639543,
+      "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/zone20.zip",
+      "zone": 20
+    },
+    {
+      "bytes": 5244053,
+      "fileCount": 100,
+      "sha256": "9c1cc832de3d639fb33ea11983820b6714e286dc460b09920a5ec98a43333f77",
+      "unpackedBytes": 5368693,
+      "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/zone21.zip",
+      "zone": 21
+    },
+    {
+      "bytes": 7086655,
+      "fileCount": 133,
+      "sha256": "b51da4f0bd550662b31b409357907d4ec797aab4a9c7bf6e90aa00e2fee04174",
+      "unpackedBytes": 7325969,
+      "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/zone22.zip",
+      "zone": 22
+    },
+    {
+      "bytes": 5670770,
+      "fileCount": 115,
+      "sha256": "5d894e779e7b1214037e5c1c1ad95639e2a9638709622da525113dbf3e427ca2",
+      "unpackedBytes": 5828351,
+      "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/zone23.zip",
+      "zone": 23
+    },
+    {
+      "bytes": 5647335,
+      "fileCount": 111,
+      "sha256": "e527ff6885b506e74979544d84c7838b0f3feeac54fa52fd1769901287b372a0",
+      "unpackedBytes": 5775310,
+      "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/zone24.zip",
+      "zone": 24
+    },
+    {
+      "bytes": 7216852,
+      "fileCount": 132,
+      "sha256": "54ef6c6755bf6b16a9c5b568ed9f719558b686b56cece6cc97a0e6f8e9b3384b",
+      "unpackedBytes": 7682698,
+      "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/zone25.zip",
+      "zone": 25
+    },
+    {
+      "bytes": 6434263,
+      "fileCount": 126,
+      "sha256": "cfd603e3f65ab53abafee142b2ab7daffd4d9184fcddfadeb35c7bcb5fbf5491",
+      "unpackedBytes": 6657788,
+      "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/zone26.zip",
+      "zone": 26
+    },
+    {
+      "bytes": 5646570,
+      "fileCount": 126,
+      "sha256": "94f60eb0f77b2baf0a9bd3371e4c70bd4472a1e634fe967c7987f0ab895f6d80",
+      "unpackedBytes": 5812250,
+      "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/zone27.zip",
+      "zone": 27
+    },
+    {
+      "bytes": 4452649,
+      "fileCount": 115,
+      "sha256": "be3eac0b910a5f6b84971c63c1f97ba5d26fb551b00c943db658daecdcd03f8e",
+      "unpackedBytes": 4588757,
+      "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/zone28.zip",
+      "zone": 28
+    },
+    {
+      "bytes": 7047315,
+      "fileCount": 117,
+      "sha256": "19ba082c65f9b765980cff848df73f9a1ea89bae22ec3bb276a3a674a37f5f6c",
+      "unpackedBytes": 7246162,
+      "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/zone29.zip",
+      "zone": 29
+    },
+    {
+      "bytes": 5745152,
+      "fileCount": 124,
+      "sha256": "e9a25950f6663ab188937a5efe374c528ffaf217fb13b8b4452ca61f46cdf078",
+      "unpackedBytes": 5983285,
+      "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/zone30.zip",
+      "zone": 30
+    },
+    {
+      "bytes": 5828132,
+      "fileCount": 129,
+      "sha256": "2e3fc9defa85f92dcbc5094a4a40f20951977d12ef4013aca9f7de626dc2229a",
+      "unpackedBytes": 5947258,
+      "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/zone31.zip",
+      "zone": 31
+    },
+    {
+      "bytes": 5944874,
+      "fileCount": 125,
+      "sha256": "0a51875a136219f771b58761595a3bee803ec6674102f2125e351ca96a51a635",
+      "unpackedBytes": 6149353,
+      "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/zone32.zip",
+      "zone": 32
+    }
+  ]
+}
