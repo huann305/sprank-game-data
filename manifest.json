@@ -1,12 +1,12 @@
 {
   "bootstrap": {
-    "bytes": 7422840,
+    "bytes": 7422998,
     "fileCount": 417,
-    "sha256": "b86490a37ce23f3ee8dad184982d5a341ebc52fce2b7db7917e2cd27e91638f6",
-    "unpackedBytes": 7417893,
-    "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v1/home.zip"
+    "sha256": "d9852b32a97d276e7d5a51cdd3ae83c36a01f397e05bb02c9292346a144b2ebe",
+    "unpackedBytes": 7420054,
+    "url": "https://github.com/huann305/sprank-game-data/releases/download/2026-10-26-v2/home.zip"
   },
-  "contentVersion": "2026-10-26-v1",
+  "contentVersion": "2026-10-26-v2",
   "menu": {
     "bytes": 995333,
     "fileCount": 1,
