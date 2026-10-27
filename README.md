@@ -12,7 +12,7 @@ Downloadable game content. This repository contains the content manifest; the co
 
 ## Current content
 
-Version: `2026-10-26-v1`. Manifest schema: `1`.
+Version: `2026-10-27-v1`. Manifest schema: `1`.
 
 32 zones, 640 mono instrumental loops. Each character has one fixed instrument. No shared backing track or vocals. The APK contains the app shell; game content is delivered separately.
 
